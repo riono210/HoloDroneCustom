@@ -6,7 +6,7 @@ public class TestScript : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		
+		Debug.Log("tets");
 	}
 	
 	// Update is called once per frame
