@@ -13,4 +13,9 @@ public class TestScript : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    public void Tap()
+    {
+        Debug.Log("tets");
+    }
 }
